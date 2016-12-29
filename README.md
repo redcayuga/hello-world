@@ -1,3 +1,3 @@
 # hello-world
 
-Read this
+want to learn more about html and javascript
